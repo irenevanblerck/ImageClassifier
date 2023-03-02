@@ -12,7 +12,7 @@ To run the code, the following packages are required:
 - [ ] scikit-learn
 - [ ] tensorflow
 
-The code defines several default values that can be adjusted:
+The code defines several default values:
 
 - DIR_PATH_DEFAULT: The path to the directory containing the images
 - CLASS_NAME_DEFAULT: The name of the positive class
